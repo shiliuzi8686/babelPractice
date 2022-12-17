@@ -1,0 +1,27 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "日志辅助调试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/traverse": "^7.20.5",
+    "@babel/types": "^7.20.5",
+    "babel-loader": "^9.1.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
